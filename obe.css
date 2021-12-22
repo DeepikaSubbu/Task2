@@ -1,0 +1,60 @@
+
+body{
+margin: 0em;
+padding: 0em;
+overflow-x: hidden;
+background-color: #56525a;  
+}
+.heading{
+    color: #F15F60;
+}
+.margin{
+    margin-top: 5em
+}
+
+.rounded{
+    height: 40px;
+    width: 50px;
+    
+    border-radius: 100px;
+    margin-left: 510px;
+    margin-top: -120px;
+    
+
+}
+
+.col-6{
+    margin-bottom: 20px;
+}
+.tvs{
+    height: 20px;
+    width: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 15em;
+    
+    
+}
+.cyc{
+    height: 20px;
+    width: 20px;
+    margin-left: 40px;
+    margin-bottom: 100px;
+    margin-right: 40px;
+}
+
+.french{
+    margin: 2em;
+}
+.smoke{
+    display: grid;
+    grid-auto-flow: column;
+    gap: 2em;
+    margin-top: 2em;
+}
+
+.move{
+    margin-bottom: 6em;
+}
+
+
